@@ -6,7 +6,7 @@ Feel free to:
 
 
 # License: 
-- License: https://img.shields.io/badge/license-MIT-green
+- License: [![N|Solid](https://img.shields.io/badge/license-MIT-green) 
 
 
 # Tech: 
