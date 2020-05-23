@@ -1,0 +1,1 @@
+sudo npm install -g inherits n && sudo n 12.14.0
