@@ -1,0 +1,3 @@
+lvresize -L +5G --resizefs /dev/mapper/fedora-root
+lvresize -L -10G --resizefs /dev/mapper/fedora-root
+
