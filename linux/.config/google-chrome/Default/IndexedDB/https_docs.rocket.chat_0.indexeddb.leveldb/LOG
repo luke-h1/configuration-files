@@ -1,0 +1,5 @@
+2020/05/22-14:02:49.283 e133 Reusing MANIFEST /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_docs.rocket.chat_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/22-14:09:24.843 13a2 Level-0 table #5: started
+2020/05/22-14:09:24.905 13a2 Level-0 table #5: 1112 bytes OK
+2020/05/22-14:09:24.908 13a2 Delete type=0 #3
+2020/05/22-14:09:24.908 13a2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

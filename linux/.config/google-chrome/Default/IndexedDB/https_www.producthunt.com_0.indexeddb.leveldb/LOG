@@ -1,0 +1,15 @@
+2020/05/25-18:20:16.105 d9cf Reusing MANIFEST /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_www.producthunt.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/25-18:20:16.105 d9cf Recovering log #4
+2020/05/25-18:20:16.105 d9cf Reusing old log /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_www.producthunt.com_0.indexeddb.leveldb/000004.log 
+2020/05/25-18:20:31.753 3811 Level-0 table #8: started
+2020/05/25-18:20:31.755 3811 Level-0 table #8: 3436 bytes OK
+2020/05/25-18:20:31.758 3811 Delete type=0 #4
+2020/05/25-18:20:31.768 3811 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/25-18:20:31.768 3811 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03\x02\x01\x1f\x00w\x00e\x00b\x00h\x00o\x00o\x00k\x00s\x00.\x00n\x00o\x00t\x00i\x00f\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00.\x00d\x00i\x00s\x00p\x00l\x00a\x00y\x00e\x00d' @ 440 : 1
+2020/05/25-18:20:31.768 3811 Compacting 1@1 + 1@2 files
+2020/05/25-18:20:31.770 3811 Generated table #9@1: 87 keys, 2061 bytes
+2020/05/25-18:20:31.770 3811 Compacted 1@1 + 1@2 files => 2061 bytes
+2020/05/25-18:20:31.771 3811 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/05/25-18:20:31.771 3811 Delete type=2 #5
+2020/05/25-18:20:31.771 3811 Delete type=2 #8
+2020/05/25-18:20:31.772 3811 Manual compaction at level-1 from '\x00\x01\x03\x02\x01\x1f\x00w\x00e\x00b\x00h\x00o\x00o\x00k\x00s\x00.\x00n\x00o\x00t\x00i\x00f\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00.\x00d\x00i\x00s\x00p\x00l\x00a\x00y\x00e\x00d' @ 440 : 1 .. (end); will stop at (end)

@@ -1,0 +1,5 @@
+2020/05/18-14:04:00.079 a061 Reusing MANIFEST /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_de.yahoo.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/18-14:04:13.520 cd4 Level-0 table #5: started
+2020/05/18-14:04:13.600 cd4 Level-0 table #5: 340311 bytes OK
+2020/05/18-14:04:13.605 cd4 Delete type=0 #3
+2020/05/18-14:04:13.606 cd4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

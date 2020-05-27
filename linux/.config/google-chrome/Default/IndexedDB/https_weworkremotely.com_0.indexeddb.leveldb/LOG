@@ -1,0 +1,5 @@
+2020/05/19-16:52:11.104 3858d Reusing MANIFEST /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_weworkremotely.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/19-16:53:43.543 f66 Level-0 table #5: started
+2020/05/19-16:53:43.546 f66 Level-0 table #5: 16957 bytes OK
+2020/05/19-16:53:43.548 f66 Delete type=0 #3
+2020/05/19-16:53:43.548 f66 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

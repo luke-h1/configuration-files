@@ -1,0 +1,8 @@
+2020/05/16-12:13:25.720 8d24 Reusing MANIFEST /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_itsfoss.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/16-12:13:25.720 8d24 Recovering log #4
+2020/05/16-12:13:25.720 8d24 Reusing old log /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_itsfoss.com_0.indexeddb.leveldb/000004.log 
+2020/05/16-12:13:34.898 ba1 Level-0 table #8: started
+2020/05/16-12:13:34.899 ba1 Level-0 table #8: 0 bytes OK
+2020/05/16-12:13:34.902 ba1 Delete type=0 #4
+2020/05/16-12:13:34.902 ba1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/16-12:13:34.902 ba1 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

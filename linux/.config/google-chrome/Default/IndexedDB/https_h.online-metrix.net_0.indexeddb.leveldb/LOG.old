@@ -1,0 +1,8 @@
+2020/05/20-10:31:32.349 3c38 Reusing MANIFEST /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_h.online-metrix.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/20-10:31:32.349 3c38 Recovering log #10
+2020/05/20-10:31:32.349 3c38 Reusing old log /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_h.online-metrix.net_0.indexeddb.leveldb/000010.log 
+2020/05/20-10:31:43.056 100e Level-0 table #14: started
+2020/05/20-10:31:43.056 100e Level-0 table #14: 0 bytes OK
+2020/05/20-10:31:43.058 100e Delete type=0 #10
+2020/05/20-10:31:43.058 100e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/20-10:31:43.059 100e Manual compaction at level-1 from (begin) .. (end); will stop at (end)

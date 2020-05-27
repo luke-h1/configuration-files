@@ -1,0 +1,5 @@
+2020/05/22-16:42:33.494 24669 Reusing MANIFEST /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_www.forbes.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/22-16:42:41.785 13a2 Level-0 table #5: started
+2020/05/22-16:42:41.788 13a2 Level-0 table #5: 1130 bytes OK
+2020/05/22-16:42:41.790 13a2 Delete type=0 #3
+2020/05/22-16:42:41.791 13a2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

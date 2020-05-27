@@ -1,0 +1,31 @@
+2020/05/25-19:50:25.678 fe1a Reusing MANIFEST /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_crowdedcity.io_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/25-19:50:31.322 e962 Level-0 table #5: started
+2020/05/25-19:50:31.354 e962 Level-0 table #5: 4965720 bytes OK
+2020/05/25-19:50:31.357 e962 Delete type=0 #3
+2020/05/25-19:50:33.518 e962 Level-0 table #7: started
+2020/05/25-19:50:33.590 e962 Level-0 table #7: 9001676 bytes OK
+2020/05/25-19:50:33.592 e962 Delete type=0 #4
+2020/05/25-19:54:55.226 e962 Level-0 table #9: started
+2020/05/25-19:54:55.233 e962 Level-0 table #9: 16461 bytes OK
+2020/05/25-19:54:55.235 e962 Delete type=0 #6
+2020/05/25-19:54:55.236 e962 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x03\x01\x1f\x02\x00\x90\xf5\xe1\xd2$wB\x00\x013\x00/\x00i\x00d\x00b\x00f\x00s\x00/\x007\x00c\x00a\x00a\x001\x00b\x009\x001\x007\x000\x004\x008\x00b\x001\x002\x00d\x00a\x00f\x001\x000\x00d\x008\x000\x00d\x00d\x00a\x000\x006\x002\x005\x009\x005\x00/\x00P\x00l\x00a\x00y\x00e\x00r\x00P\x00r\x00e\x00f\x00s' @ 763 : 1
+2020/05/25-19:54:55.236 e962 Compacting 1@0 + 1@1 files
+2020/05/25-19:54:55.348 e962 Generated table #10@0: 193 keys, 9001680 bytes
+2020/05/25-19:54:55.351 e962 Generated table #11@0: 66 keys, 3752 bytes
+2020/05/25-19:54:55.351 e962 Compacted 1@0 + 1@1 files => 9005432 bytes
+2020/05/25-19:54:55.353 e962 compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/05/25-19:54:55.354 e962 Delete type=2 #9
+2020/05/25-19:54:55.354 e962 Delete type=2 #7
+2020/05/25-19:54:55.357 e962 Manual compaction at level-0 from '\x00\x03\x01\x1f\x02\x00\x90\xf5\xe1\xd2$wB\x00\x013\x00/\x00i\x00d\x00b\x00f\x00s\x00/\x007\x00c\x00a\x00a\x001\x00b\x009\x001\x007\x000\x004\x008\x00b\x001\x002\x00d\x00a\x00f\x001\x000\x00d\x008\x000\x00d\x00d\x00a\x000\x006\x002\x005\x009\x005\x00/\x00P\x00l\x00a\x00y\x00e\x00r\x00P\x00r\x00e\x00f\x00s' @ 763 : 1 .. (end); will stop at (end)
+2020/05/25-19:54:55.358 e962 Expanding@1 1+1 (9001680+4965720 bytes) to 2+1 (9005432+4965720 bytes)
+2020/05/25-19:54:55.358 e962 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x1f\x02\x00\x90\xf5\xe1\xd2$wB\x00\x013\x00/\x00i\x00d\x00b\x00f\x00s\x00/\x007\x00c\x00a\x00a\x001\x00b\x009\x001\x007\x000\x004\x008\x00b\x001\x002\x00d\x00a\x00f\x001\x000\x00d\x008\x000\x00d\x00d\x00a\x000\x006\x002\x005\x009\x005\x00/\x00P\x00l\x00a\x00y\x00e\x00r\x00P\x00r\x00e\x00f\x00s' @ 763 : 1
+2020/05/25-19:54:55.358 e962 Compacting 2@1 + 1@2 files
+2020/05/25-19:54:55.422 e962 Generated table #12@1: 53 keys, 8999880 bytes
+2020/05/25-19:54:55.446 e962 Generated table #13@1: 1 keys, 4869743 bytes
+2020/05/25-19:54:55.448 e962 Generated table #14@1: 76 keys, 96597 bytes
+2020/05/25-19:54:55.448 e962 Compacted 2@1 + 1@2 files => 13966220 bytes
+2020/05/25-19:54:55.451 e962 compacted to: files[ 0 0 3 0 0 0 0 ]
+2020/05/25-19:54:55.451 e962 Delete type=2 #5
+2020/05/25-19:54:55.451 e962 Delete type=2 #10
+2020/05/25-19:54:55.451 e962 Delete type=2 #11
+2020/05/25-19:54:55.453 e962 Manual compaction at level-1 from '\x00\x03\x01\x1f\x02\x00\x90\xf5\xe1\xd2$wB\x00\x013\x00/\x00i\x00d\x00b\x00f\x00s\x00/\x007\x00c\x00a\x00a\x001\x00b\x009\x001\x007\x000\x004\x008\x00b\x001\x002\x00d\x00a\x00f\x001\x000\x00d\x008\x000\x00d\x00d\x00a\x000\x006\x002\x005\x009\x005\x00/\x00P\x00l\x00a\x00y\x00e\x00r\x00P\x00r\x00e\x00f\x00s' @ 763 : 1 .. (end); will stop at (end)

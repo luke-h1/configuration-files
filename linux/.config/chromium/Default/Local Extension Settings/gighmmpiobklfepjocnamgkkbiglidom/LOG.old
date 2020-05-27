@@ -1,0 +1,50 @@
+2020/05/14-12:52:57.736 8ea Reusing MANIFEST /home/lukehowsam/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2020/05/14-12:53:11.505 b24 Level-0 table #5: started
+2020/05/14-12:53:11.557 b24 Level-0 table #5: 4282284 bytes OK
+2020/05/14-12:53:11.559 b24 Delete type=0 #3
+2020/05/14-12:53:28.565 b24 Level-0 table #7: started
+2020/05/14-12:53:28.625 b24 Level-0 table #7: 4254064 bytes OK
+2020/05/14-12:53:28.627 b24 Delete type=0 #4
+2020/05/14-12:53:30.041 b24 Level-0 table #9: started
+2020/05/14-12:53:30.105 b24 Level-0 table #9: 4254141 bytes OK
+2020/05/14-12:53:30.107 b24 Delete type=0 #6
+2020/05/14-12:53:58.424 b24 Level-0 table #11: started
+2020/05/14-12:53:58.483 b24 Level-0 table #11: 4254141 bytes OK
+2020/05/14-12:53:58.485 b24 Delete type=0 #8
+2020/05/14-12:53:59.999 b24 Level-0 table #13: started
+2020/05/14-12:54:00.058 b24 Level-0 table #13: 4254183 bytes OK
+2020/05/14-12:54:00.060 b24 Delete type=0 #10
+2020/05/14-12:54:05.672 b24 Level-0 table #15: started
+2020/05/14-12:54:05.740 b24 Level-0 table #15: 4254183 bytes OK
+2020/05/14-12:54:05.742 b24 Delete type=0 #12
+2020/05/14-12:54:05.744 b24 Compacting 4@0 + 1@1 files
+2020/05/14-12:54:05.886 b24 Generated table #16@0: 1 keys, 4254183 bytes
+2020/05/14-12:54:05.889 b24 Compacted 4@0 + 1@1 files => 4254183 bytes
+2020/05/14-12:54:05.891 b24 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/14-12:54:05.891 b24 Delete type=2 #9
+2020/05/14-12:54:05.891 b24 Delete type=2 #13
+2020/05/14-12:54:05.891 b24 Delete type=2 #15
+2020/05/14-12:54:05.891 b24 Delete type=2 #7
+2020/05/14-12:54:05.891 b24 Delete type=2 #11
+2020/05/14-12:54:09.015 b24 Level-0 table #18: started
+2020/05/14-12:54:09.145 b24 Level-0 table #18: 5220431 bytes OK
+2020/05/14-12:54:09.148 b24 Delete type=0 #14
+2020/05/14-12:54:12.049 b24 Level-0 table #20: started
+2020/05/14-12:54:12.155 b24 Level-0 table #20: 5220243 bytes OK
+2020/05/14-12:54:12.157 b24 Delete type=0 #17
+2020/05/14-12:54:15.022 b24 Level-0 table #22: started
+2020/05/14-12:54:15.093 b24 Level-0 table #22: 5262245 bytes OK
+2020/05/14-12:54:15.094 b24 Delete type=0 #19
+2020/05/14-12:54:19.278 b24 Level-0 table #24: started
+2020/05/14-12:54:19.354 b24 Level-0 table #24: 5262246 bytes OK
+2020/05/14-12:54:19.356 b24 Delete type=0 #21
+2020/05/14-12:54:19.359 b24 Compacting 4@0 + 1@1 files
+2020/05/14-12:54:19.520 b24 Generated table #25@0: 1 keys, 5262246 bytes
+2020/05/14-12:54:19.524 b24 Generated table #26@0: 1 keys, 262 bytes
+2020/05/14-12:54:19.524 b24 Compacted 4@0 + 1@1 files => 5262508 bytes
+2020/05/14-12:54:19.525 b24 compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/05/14-12:54:19.525 b24 Delete type=2 #16
+2020/05/14-12:54:19.526 b24 Delete type=2 #22
+2020/05/14-12:54:19.526 b24 Delete type=2 #24
+2020/05/14-12:54:19.526 b24 Delete type=2 #18
+2020/05/14-12:54:19.526 b24 Delete type=2 #20

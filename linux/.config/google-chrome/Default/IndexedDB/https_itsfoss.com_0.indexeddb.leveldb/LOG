@@ -1,0 +1,15 @@
+2020/05/27-10:56:16.302 1556 Reusing MANIFEST /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_itsfoss.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/27-10:56:16.303 1556 Recovering log #7
+2020/05/27-10:56:16.303 1556 Reusing old log /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_itsfoss.com_0.indexeddb.leveldb/000007.log 
+2020/05/27-10:56:23.676 d15 Level-0 table #11: started
+2020/05/27-10:56:23.738 d15 Level-0 table #11: 188 bytes OK
+2020/05/27-10:56:23.740 d15 Delete type=0 #7
+2020/05/27-10:56:23.741 d15 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/27-10:56:23.741 d15 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x02' @ 9 : 1
+2020/05/27-10:56:23.741 d15 Compacting 1@1 + 1@2 files
+2020/05/27-10:56:23.742 d15 Generated table #12@1: 7 keys, 320 bytes
+2020/05/27-10:56:23.743 d15 Compacted 1@1 + 1@2 files => 320 bytes
+2020/05/27-10:56:23.744 d15 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/05/27-10:56:23.744 d15 Delete type=2 #5
+2020/05/27-10:56:23.744 d15 Delete type=2 #11
+2020/05/27-10:56:23.745 d15 Manual compaction at level-1 from '\x00\x00\x00\x00\x02' @ 9 : 1 .. (end); will stop at (end)

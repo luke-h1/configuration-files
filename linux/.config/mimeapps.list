@@ -1,0 +1,5 @@
+[Added Associations]
+x-scheme-handler/http=exo-web-browser.desktop;
+x-scheme-handler/https=exo-web-browser.desktop;
+video/mp4=userapp-"vlc"-01HNK0.desktop;
+application/x-bittorrent=transmission-gtk.desktop;

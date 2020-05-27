@@ -1,0 +1,15 @@
+2020/05/25-17:44:49.756 c84b Reusing MANIFEST /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_ifarus.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/25-17:44:49.756 c84b Recovering log #7
+2020/05/25-17:44:49.756 c84b Reusing old log /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_ifarus.com_0.indexeddb.leveldb/000007.log 
+2020/05/25-17:44:58.862 3811 Level-0 table #12: started
+2020/05/25-17:44:58.867 3811 Level-0 table #12: 547 bytes OK
+2020/05/25-17:44:58.870 3811 Delete type=0 #7
+2020/05/25-17:44:58.871 3811 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/25-17:44:58.871 3811 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x0b\x00a\x00s\x00k\x00G\x00i\x00d\x00r\x00a\x00t\x00o\x00r' @ 245 : 1
+2020/05/25-17:44:58.871 3811 Compacting 1@1 + 1@2 files
+2020/05/25-17:44:58.875 3811 Generated table #13@1: 71 keys, 1775 bytes
+2020/05/25-17:44:58.875 3811 Compacted 1@1 + 1@2 files => 1775 bytes
+2020/05/25-17:44:58.880 3811 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/05/25-17:44:58.881 3811 Delete type=2 #9
+2020/05/25-17:44:58.881 3811 Delete type=2 #12
+2020/05/25-17:44:58.882 3811 Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x0b\x00a\x00s\x00k\x00G\x00i\x00d\x00r\x00a\x00t\x00o\x00r' @ 245 : 1 .. (end); will stop at (end)

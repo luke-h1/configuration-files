@@ -1,0 +1,7 @@
+[2020-05-25 12:31:51.575] [sharedprocess] [info] main {"machineId":"caf2508d7e7390ca69e9bfbcc423347d7a6dc2be6c4d928140219094c2066929","windowId":2}
+[2020-05-25 12:32:15.077] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2020-05-25 12:32:16.058] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /tmp/1ca854cf-97ce-41a8-aa81-3ea46053aa74
+[2020-05-25 12:32:16.367] [sharedprocess] [info] Extracted extension to /home/lukehowsam/.vscode/extensions/.esbenp.prettier-vscode-4.7.0: esbenp.prettier-vscode
+[2020-05-25 12:32:16.367] [sharedprocess] [info] Renamed to /home/lukehowsam/.vscode/extensions/esbenp.prettier-vscode-4.7.0
+[2020-05-25 12:32:16.369] [sharedprocess] [info] Installation completed. esbenp.prettier-vscode
+[2020-05-25 12:32:16.442] [sharedprocess] [info] Extensions installed successfully: esbenp.prettier-vscode

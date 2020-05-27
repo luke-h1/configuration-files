@@ -1,0 +1,47 @@
+[2020-05-27 18:39:48.286] [sharedprocess] [info] main {"machineId":"caf2508d7e7390ca69e9bfbcc423347d7a6dc2be6c4d928140219094c2066929","windowId":2}
+[2020-05-27 18:40:28.323] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-05-27 18:41:18.582] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2020-05-27 18:41:21.754] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /tmp/90a95c3c-fce3-4c31-abd2-03f92748c4fe
+[2020-05-27 18:41:23.538] [sharedprocess] [info] Extracted extension to /home/lukehowsam/.vscode/extensions/.pkief.material-icon-theme-4.1.0: pkief.material-icon-theme
+[2020-05-27 18:41:23.538] [sharedprocess] [info] Renamed to /home/lukehowsam/.vscode/extensions/pkief.material-icon-theme-4.1.0
+[2020-05-27 18:41:23.540] [sharedprocess] [info] Installation completed. pkief.material-icon-theme
+[2020-05-27 18:41:23.561] [sharedprocess] [info] Extensions installed successfully: pkief.material-icon-theme
+[2020-05-27 18:41:31.423] [sharedprocess] [info] Installing extension: coenraads.bracket-pair-colorizer
+[2020-05-27 18:41:37.141] [sharedprocess] [info] Downloaded extension: coenraads.bracket-pair-colorizer /tmp/b5e2de73-7c75-4f68-929a-205aac0a4579
+[2020-05-27 18:41:38.063] [sharedprocess] [info] Extracted extension to /home/lukehowsam/.vscode/extensions/.coenraads.bracket-pair-colorizer-1.0.61: coenraads.bracket-pair-colorizer
+[2020-05-27 18:41:38.063] [sharedprocess] [info] Renamed to /home/lukehowsam/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61
+[2020-05-27 18:41:38.065] [sharedprocess] [info] Installation completed. coenraads.bracket-pair-colorizer
+[2020-05-27 18:41:38.129] [sharedprocess] [info] Extensions installed successfully: coenraads.bracket-pair-colorizer
+[2020-05-27 18:41:48.926] [sharedprocess] [info] Installing extension: zignd.html-css-class-completion
+[2020-05-27 18:41:59.349] [sharedprocess] [info] Installing extension: christian-kohler.npm-intellisense
+[2020-05-27 18:42:09.213] [sharedprocess] [info] Installing extension: christian-kohler.path-intellisense
+[2020-05-27 18:42:11.696] [sharedprocess] [info] Downloaded extension: christian-kohler.path-intellisense /tmp/2b453685-3359-4d00-b002-1d3928499fb3
+[2020-05-27 18:42:11.823] [sharedprocess] [info] Extracted extension to /home/lukehowsam/.vscode/extensions/.christian-kohler.path-intellisense-1.4.2: christian-kohler.path-intellisense
+[2020-05-27 18:42:11.823] [sharedprocess] [info] Renamed to /home/lukehowsam/.vscode/extensions/christian-kohler.path-intellisense-1.4.2
+[2020-05-27 18:42:11.825] [sharedprocess] [info] Installation completed. christian-kohler.path-intellisense
+[2020-05-27 18:42:11.891] [sharedprocess] [info] Extensions installed successfully: christian-kohler.path-intellisense
+[2020-05-27 18:42:13.347] [sharedprocess] [info] Downloaded extension: zignd.html-css-class-completion /tmp/1b65b34e-258f-4cd4-88af-474be102a280
+[2020-05-27 18:42:13.723] [sharedprocess] [info] Downloaded extension: christian-kohler.npm-intellisense /tmp/6ef3b7cf-e386-476a-9293-af2f56914624
+[2020-05-27 18:42:13.834] [sharedprocess] [info] Extracted extension to /home/lukehowsam/.vscode/extensions/.christian-kohler.npm-intellisense-1.3.0: christian-kohler.npm-intellisense
+[2020-05-27 18:42:13.834] [sharedprocess] [info] Renamed to /home/lukehowsam/.vscode/extensions/christian-kohler.npm-intellisense-1.3.0
+[2020-05-27 18:42:13.835] [sharedprocess] [info] Installation completed. christian-kohler.npm-intellisense
+[2020-05-27 18:42:13.855] [sharedprocess] [info] Extensions installed successfully: christian-kohler.npm-intellisense
+[2020-05-27 18:42:15.496] [sharedprocess] [info] Extracted extension to /home/lukehowsam/.vscode/extensions/.zignd.html-css-class-completion-1.19.0: zignd.html-css-class-completion
+[2020-05-27 18:42:15.496] [sharedprocess] [info] Renamed to /home/lukehowsam/.vscode/extensions/zignd.html-css-class-completion-1.19.0
+[2020-05-27 18:42:15.497] [sharedprocess] [info] Installation completed. zignd.html-css-class-completion
+[2020-05-27 18:42:15.506] [sharedprocess] [info] Extensions installed successfully: zignd.html-css-class-completion
+[2020-05-27 18:42:38.935] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
+[2020-05-27 18:42:40.885] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint /tmp/04ae89b7-cc20-4380-aa03-bc1fa5ff6ee1
+[2020-05-27 18:42:40.914] [sharedprocess] [info] Extracted extension to /home/lukehowsam/.vscode/extensions/.dbaeumer.vscode-eslint-2.1.5: dbaeumer.vscode-eslint
+[2020-05-27 18:42:40.915] [sharedprocess] [info] Renamed to /home/lukehowsam/.vscode/extensions/dbaeumer.vscode-eslint-2.1.5
+[2020-05-27 18:42:40.916] [sharedprocess] [info] Installation completed. dbaeumer.vscode-eslint
+[2020-05-27 18:42:40.919] [sharedprocess] [info] Extensions installed successfully: dbaeumer.vscode-eslint
+[2020-05-27 18:42:45.335] [sharedprocess] [info] Installing extension: hookyqr.beautify
+[2020-05-27 18:42:48.636] [sharedprocess] [info] Downloaded extension: hookyqr.beautify /tmp/f9cc316e-25f5-465c-a1b0-aa13b3d13ff4
+[2020-05-27 18:42:48.906] [sharedprocess] [info] Extracted extension to /home/lukehowsam/.vscode/extensions/.hookyqr.beautify-1.5.0: hookyqr.beautify
+[2020-05-27 18:42:48.906] [sharedprocess] [info] Renamed to /home/lukehowsam/.vscode/extensions/hookyqr.beautify-1.5.0
+[2020-05-27 18:42:48.907] [sharedprocess] [info] Installation completed. hookyqr.beautify
+[2020-05-27 18:42:48.916] [sharedprocess] [info] Extensions installed successfully: hookyqr.beautify
+[2020-05-27 18:42:56.587] [sharedprocess] [info] Installing extension: wix.vscode-import-cost
+[2020-05-27 18:43:05.887] [sharedprocess] [info] Installing extension: wallabyjs.quokka-vscode
+[2020-05-27 18:43:13.635] [sharedprocess] [info] Installing extension: ms-vsliveshare.vsliveshare

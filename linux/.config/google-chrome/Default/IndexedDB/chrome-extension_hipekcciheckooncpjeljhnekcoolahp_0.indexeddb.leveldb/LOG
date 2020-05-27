@@ -1,0 +1,15 @@
+2020/05/28-00:45:01.476 b88 Reusing MANIFEST /home/lukehowsam/.config/google-chrome/Default/IndexedDB/chrome-extension_hipekcciheckooncpjeljhnekcoolahp_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/28-00:45:01.477 b88 Recovering log #2108
+2020/05/28-00:45:01.477 b88 Reusing old log /home/lukehowsam/.config/google-chrome/Default/IndexedDB/chrome-extension_hipekcciheckooncpjeljhnekcoolahp_0.indexeddb.leveldb/002108.log 
+2020/05/28-00:45:07.732 c85 Level-0 table #2113: started
+2020/05/28-00:45:07.737 c85 Level-0 table #2113: 493 bytes OK
+2020/05/28-00:45:07.739 c85 Delete type=0 #2108
+2020/05/28-00:45:07.740 c85 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/28-00:45:07.740 c85 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0d\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x00c\x00a\x00c\x00h\x00e' @ 7843 : 1
+2020/05/28-00:45:07.740 c85 Compacting 1@1 + 1@2 files
+2020/05/28-00:45:07.742 c85 Generated table #2114@1: 39 keys, 896 bytes
+2020/05/28-00:45:07.742 c85 Compacted 1@1 + 1@2 files => 896 bytes
+2020/05/28-00:45:07.745 c85 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/05/28-00:45:07.745 c85 Delete type=2 #2113
+2020/05/28-00:45:07.745 c85 Delete type=2 #2110
+2020/05/28-00:45:07.746 c85 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0d\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x00c\x00a\x00c\x00h\x00e' @ 7843 : 1 .. (end); will stop at (end)

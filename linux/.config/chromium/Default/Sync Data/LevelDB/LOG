@@ -1,0 +1,30 @@
+2020/05/14-13:14:51.332 8e1 Reusing MANIFEST /home/lukehowsam/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/05/14-13:14:51.332 8e1 Recovering log #6
+2020/05/14-13:14:51.333 8e1 Reusing old log /home/lukehowsam/.config/chromium/Default/Sync Data/LevelDB/000006.log 
+2020/05/14-13:21:00.853 b4d Level-0 table #10: started
+2020/05/14-13:21:00.858 b4d Level-0 table #10: 125402 bytes OK
+2020/05/14-13:21:00.859 b4d Delete type=0 #6
+2020/05/14-13:45:36.596 b4d Level-0 table #12: started
+2020/05/14-13:45:36.606 b4d Level-0 table #12: 120838 bytes OK
+2020/05/14-13:45:36.608 b4d Delete type=0 #9
+2020/05/14-14:00:19.168 b4d Level-0 table #14: started
+2020/05/14-14:00:19.177 b4d Level-0 table #14: 106076 bytes OK
+2020/05/14-14:00:19.179 b4d Delete type=0 #11
+2020/05/14-14:36:22.206 b4d Level-0 table #16: started
+2020/05/14-14:36:22.211 b4d Level-0 table #16: 109550 bytes OK
+2020/05/14-14:36:22.213 b4d Delete type=0 #13
+2020/05/14-14:36:22.213 b4d Compacting 4@0 + 1@1 files
+2020/05/14-14:36:22.219 b4d Generated table #17@0: 72 keys, 25747 bytes
+2020/05/14-14:36:22.219 b4d Compacted 4@0 + 1@1 files => 25747 bytes
+2020/05/14-14:36:22.220 b4d compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/14-14:36:22.220 b4d Delete type=2 #16
+2020/05/14-14:36:22.220 b4d Delete type=2 #14
+2020/05/14-14:36:22.220 b4d Delete type=2 #10
+2020/05/14-14:36:22.220 b4d Delete type=2 #7
+2020/05/14-14:36:22.220 b4d Delete type=2 #12
+2020/05/14-15:17:45.603 b4d Level-0 table #19: started
+2020/05/14-15:17:45.667 b4d Level-0 table #19: 111680 bytes OK
+2020/05/14-15:17:45.670 b4d Delete type=0 #15
+2020/05/14-15:40:22.036 b4d Level-0 table #21: started
+2020/05/14-15:40:22.051 b4d Level-0 table #21: 127299 bytes OK
+2020/05/14-15:40:22.055 b4d Delete type=0 #18

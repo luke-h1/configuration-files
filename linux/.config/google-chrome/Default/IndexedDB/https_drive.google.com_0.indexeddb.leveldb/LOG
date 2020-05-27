@@ -1,0 +1,25 @@
+2020/05/28-00:45:10.543 b88 Reusing MANIFEST /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/28-00:45:10.543 b88 Recovering log #298
+2020/05/28-00:45:10.543 b88 Reusing old log /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000298.log 
+2020/05/28-00:45:16.651 c85 Level-0 table #302: started
+2020/05/28-00:45:16.668 c85 Level-0 table #302: 645317 bytes OK
+2020/05/28-00:45:16.671 c85 Delete type=0 #298
+2020/05/28-00:45:53.039 c85 Level-0 table #304: started
+2020/05/28-00:45:53.046 c85 Level-0 table #304: 1036 bytes OK
+2020/05/28-00:45:53.049 c85 Delete type=0 #301
+2020/05/28-00:45:53.050 c85 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x03\x03\x02\x01'\x004\x003\x007\x00a\x00f\x009\x005\x006\x006\x00c\x00e\x00a\x00a\x008\x001\x000\x003\x005\x003\x00b\x007\x005\x003\x006\x009\x00d\x00d\x008\x005\x005\x00d\x00e\x00_\x003\x00_\x004\x00:\x000\x000' @ 5973 : 1
+2020/05/28-00:45:53.050 c85 Compacting 1@0 + 1@1 files
+2020/05/28-00:45:53.063 c85 Generated table #305@0: 76 keys, 170613 bytes
+2020/05/28-00:45:53.063 c85 Compacted 1@0 + 1@1 files => 170613 bytes
+2020/05/28-00:45:53.065 c85 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/28-00:45:53.065 c85 Delete type=2 #302
+2020/05/28-00:45:53.065 c85 Delete type=2 #304
+2020/05/28-00:45:53.066 c85 Manual compaction at level-0 from '\x00\x03\x03\x02\x01'\x004\x003\x007\x00a\x00f\x009\x005\x006\x006\x00c\x00e\x00a\x00a\x008\x001\x000\x003\x005\x003\x00b\x007\x005\x003\x006\x009\x00d\x00d\x008\x005\x005\x00d\x00e\x00_\x003\x00_\x004\x00:\x000\x000' @ 5973 : 1 .. (end); will stop at (end)
+2020/05/28-00:45:53.066 c85 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x03\x02\x01%\x004\x003\x007\x00a\x00f\x009\x005\x006\x006\x00c\x00e\x00a\x00a\x008\x001\x000\x003\x005\x003\x00b\x007\x005\x003\x006\x009\x00d\x00d\x008\x005\x005\x00d\x00e\x00_\x006\x00:\x000\x000' @ 5925 : 1
+2020/05/28-00:45:53.066 c85 Compacting 1@1 + 1@2 files
+2020/05/28-00:45:53.073 c85 Generated table #306@1: 105 keys, 171589 bytes
+2020/05/28-00:45:53.073 c85 Compacted 1@1 + 1@2 files => 171589 bytes
+2020/05/28-00:45:53.075 c85 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/05/28-00:45:53.075 c85 Delete type=2 #296
+2020/05/28-00:45:53.075 c85 Delete type=2 #305
+2020/05/28-00:45:53.075 c85 Manual compaction at level-1 from '\x00\x03\x03\x02\x01%\x004\x003\x007\x00a\x00f\x009\x005\x006\x006\x00c\x00e\x00a\x00a\x008\x001\x000\x003\x005\x003\x00b\x007\x005\x003\x006\x009\x00d\x00d\x008\x005\x005\x00d\x00e\x00_\x006\x00:\x000\x000' @ 5925 : 1 .. (end); will stop at (end)

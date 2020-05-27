@@ -1,0 +1,15 @@
+2020/05/26-17:57:02.840 f46d Reusing MANIFEST /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/26-17:57:02.841 f46d Recovering log #4
+2020/05/26-17:57:02.841 f46d Reusing old log /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/000004.log 
+2020/05/26-18:00:17.648 db8 Level-0 table #8: started
+2020/05/26-18:00:17.677 db8 Level-0 table #8: 389563 bytes OK
+2020/05/26-18:00:17.680 db8 Delete type=0 #4
+2020/05/26-18:00:17.681 db8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/26-18:00:17.681 db8 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01(\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x00s\x00l\x00a\x00c\x00k\x00-\x00c\x00l\x00i\x00e\x00n\x00t\x00-\x00T\x004\x00Z\x00A\x00G\x00B\x00P\x00H\x009\x00-\x00U\x00M\x00W\x001\x005\x00M\x00X\x00P\x00X' @ 70 : 0
+2020/05/26-18:00:17.681 db8 Compacting 1@1 + 1@2 files
+2020/05/26-18:00:17.701 db8 Generated table #9@1: 19 keys, 249485 bytes
+2020/05/26-18:00:17.701 db8 Compacted 1@1 + 1@2 files => 249485 bytes
+2020/05/26-18:00:17.703 db8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/05/26-18:00:17.703 db8 Delete type=2 #5
+2020/05/26-18:00:17.703 db8 Delete type=2 #8
+2020/05/26-18:00:17.704 db8 Manual compaction at level-1 from '\x00\x01\x01\x02\x01(\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x00s\x00l\x00a\x00c\x00k\x00-\x00c\x00l\x00i\x00e\x00n\x00t\x00-\x00T\x004\x00Z\x00A\x00G\x00B\x00P\x00H\x009\x00-\x00U\x00M\x00W\x001\x005\x00M\x00X\x00P\x00X' @ 70 : 0 .. (end); will stop at (end)

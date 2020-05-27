@@ -1,0 +1,8 @@
+2020/05/28-00:46:05.107 b8a Reusing MANIFEST /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/28-00:46:05.108 b8a Recovering log #4858
+2020/05/28-00:46:05.108 b8a Reusing old log /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/004858.log 
+2020/05/28-00:46:22.737 c85 Level-0 table #4863: started
+2020/05/28-00:46:22.738 c85 Level-0 table #4863: 0 bytes OK
+2020/05/28-00:46:22.801 c85 Delete type=0 #4858
+2020/05/28-00:46:22.801 c85 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/28-00:46:22.801 c85 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

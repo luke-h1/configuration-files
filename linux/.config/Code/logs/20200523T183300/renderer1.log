@@ -1,0 +1,5 @@
+[2020-05-23 18:33:01.689] [renderer1] [error] Error: Unable to read file '/home/lukehowsam/function.js' (Error: Unable to resolve non-existing file '/home/lukehowsam/function.js')
+    at Object.t.createErrorWithActions (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:257)
+    at e.handleSetInputError (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5512:744)
+    at e.handleSetInputError (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5515:590)
+    at e.setInput (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5512:460)

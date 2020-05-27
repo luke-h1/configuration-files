@@ -1,0 +1,40 @@
+2020/05/27-20:32:23.560 c7f Reusing MANIFEST /home/lukehowsam/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2020/05/27-20:32:23.560 c7f Recovering log #1096
+2020/05/27-20:32:23.560 c7f Reusing old log /home/lukehowsam/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/001096.log 
+2020/05/27-20:33:27.462 e58 Level-0 table #1100: started
+2020/05/27-20:33:27.546 e58 Level-0 table #1100: 5291713 bytes OK
+2020/05/27-20:33:27.548 e58 Delete type=0 #1096
+2020/05/27-20:33:27.550 e58 Compacting 4@0 + 2@1 files
+2020/05/27-20:33:27.657 e58 Generated table #1101@0: 2 keys, 5290849 bytes
+2020/05/27-20:33:27.660 e58 Generated table #1102@0: 7 keys, 431 bytes
+2020/05/27-20:33:27.660 e58 Compacted 4@0 + 2@1 files => 5291280 bytes
+2020/05/27-20:33:27.661 e58 compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/05/27-20:33:27.661 e58 Delete type=2 #1093
+2020/05/27-20:33:27.662 e58 Delete type=2 #1091
+2020/05/27-20:33:27.662 e58 Delete type=2 #1100
+2020/05/27-20:33:27.662 e58 Delete type=2 #1095
+2020/05/27-20:33:27.662 e58 Delete type=2 #1090
+2020/05/27-20:33:27.662 e58 Delete type=2 #1097
+2020/05/27-20:33:27.916 e58 Level-0 table #1104: started
+2020/05/27-20:33:28.029 e58 Level-0 table #1104: 5290744 bytes OK
+2020/05/27-20:33:28.075 e58 Delete type=0 #1099
+2020/05/27-21:33:27.503 e58 Level-0 table #1106: started
+2020/05/27-21:33:27.583 e58 Level-0 table #1106: 5291172 bytes OK
+2020/05/27-21:33:27.586 e58 Delete type=0 #1103
+2020/05/27-21:33:28.908 e58 Level-0 table #1108: started
+2020/05/27-21:33:29.040 e58 Level-0 table #1108: 5290747 bytes OK
+2020/05/27-21:33:29.043 e58 Delete type=0 #1105
+2020/05/27-21:33:30.536 e58 Level-0 table #1110: started
+2020/05/27-21:33:30.613 e58 Level-0 table #1110: 5290922 bytes OK
+2020/05/27-21:33:30.615 e58 Delete type=0 #1107
+2020/05/27-21:33:30.617 e58 Compacting 4@0 + 2@1 files
+2020/05/27-21:33:30.739 e58 Generated table #1111@0: 2 keys, 5290834 bytes
+2020/05/27-21:33:30.742 e58 Generated table #1112@0: 7 keys, 431 bytes
+2020/05/27-21:33:30.742 e58 Compacted 4@0 + 2@1 files => 5291265 bytes
+2020/05/27-21:33:30.744 e58 compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/05/27-21:33:30.744 e58 Delete type=2 #1104
+2020/05/27-21:33:30.744 e58 Delete type=2 #1106
+2020/05/27-21:33:30.744 e58 Delete type=2 #1102
+2020/05/27-21:33:30.744 e58 Delete type=2 #1110
+2020/05/27-21:33:30.744 e58 Delete type=2 #1101
+2020/05/27-21:33:30.744 e58 Delete type=2 #1108

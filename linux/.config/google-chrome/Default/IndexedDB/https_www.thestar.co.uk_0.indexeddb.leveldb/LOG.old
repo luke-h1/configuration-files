@@ -1,0 +1,5 @@
+2020/05/23-16:02:50.859 2a127 Reusing MANIFEST /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_www.thestar.co.uk_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/23-16:03:23.002 1cbe8 Level-0 table #5: started
+2020/05/23-16:03:23.008 1cbe8 Level-0 table #5: 1550 bytes OK
+2020/05/23-16:03:23.011 1cbe8 Delete type=0 #3
+2020/05/23-16:03:23.011 1cbe8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

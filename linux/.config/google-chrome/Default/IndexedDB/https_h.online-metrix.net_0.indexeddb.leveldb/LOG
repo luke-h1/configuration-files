@@ -1,0 +1,15 @@
+2020/05/24-12:07:30.214 bd713 Reusing MANIFEST /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_h.online-metrix.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/24-12:07:30.214 bd713 Recovering log #13
+2020/05/24-12:07:30.214 bd713 Reusing old log /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_h.online-metrix.net_0.indexeddb.leveldb/000013.log 
+2020/05/24-12:07:32.677 1cbe8 Level-0 table #17: started
+2020/05/24-12:07:32.681 1cbe8 Level-0 table #17: 188 bytes OK
+2020/05/24-12:07:32.683 1cbe8 Delete type=0 #13
+2020/05/24-12:07:32.683 1cbe8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/24-12:07:32.683 1cbe8 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x02' @ 56 : 1
+2020/05/24-12:07:32.683 1cbe8 Compacting 1@1 + 1@2 files
+2020/05/24-12:07:32.684 1cbe8 Generated table #18@1: 19 keys, 774 bytes
+2020/05/24-12:07:32.684 1cbe8 Compacted 1@1 + 1@2 files => 774 bytes
+2020/05/24-12:07:32.685 1cbe8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/05/24-12:07:32.686 1cbe8 Delete type=2 #5
+2020/05/24-12:07:32.686 1cbe8 Delete type=2 #17
+2020/05/24-12:07:32.686 1cbe8 Manual compaction at level-1 from '\x00\x00\x00\x00\x02' @ 56 : 1 .. (end); will stop at (end)

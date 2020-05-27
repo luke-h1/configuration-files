@@ -1,0 +1,5 @@
+2020/05/26-15:41:23.270 a08a Reusing MANIFEST /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_ph6pm.csb.app_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/26-15:43:07.837 db8 Level-0 table #5: started
+2020/05/26-15:43:07.869 db8 Level-0 table #5: 326676 bytes OK
+2020/05/26-15:43:07.873 db8 Delete type=0 #3
+2020/05/26-15:43:07.874 db8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

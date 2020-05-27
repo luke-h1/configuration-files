@@ -1,0 +1,15 @@
+2020/05/27-17:07:51.695 eae4 Reusing MANIFEST /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_www.imdb.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/27-17:07:51.695 eae4 Recovering log #87
+2020/05/27-17:07:51.695 eae4 Reusing old log /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_www.imdb.com_0.indexeddb.leveldb/000087.log 
+2020/05/27-17:07:55.830 d15 Level-0 table #92: started
+2020/05/27-17:07:55.833 d15 Level-0 table #92: 190 bytes OK
+2020/05/27-17:07:55.835 d15 Delete type=0 #87
+2020/05/27-17:07:55.835 d15 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/27-17:07:55.835 d15 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 794 : 1
+2020/05/27-17:07:55.835 d15 Compacting 1@1 + 1@2 files
+2020/05/27-17:07:55.837 d15 Generated table #93@1: 36 keys, 1327 bytes
+2020/05/27-17:07:55.837 d15 Compacted 1@1 + 1@2 files => 1327 bytes
+2020/05/27-17:07:55.838 d15 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/05/27-17:07:55.838 d15 Delete type=2 #92
+2020/05/27-17:07:55.838 d15 Delete type=2 #89
+2020/05/27-17:07:55.838 d15 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 794 : 1 .. (end); will stop at (end)

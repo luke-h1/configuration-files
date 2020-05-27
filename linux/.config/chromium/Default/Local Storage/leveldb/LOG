@@ -1,0 +1,15 @@
+2020/05/14-13:14:51.343 8e9 Reusing MANIFEST /home/lukehowsam/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2020/05/14-13:14:51.343 8e9 Recovering log #4
+2020/05/14-13:14:51.344 8e9 Reusing old log /home/lukehowsam/.config/chromium/Default/Local Storage/leveldb/000004.log 
+2020/05/14-13:37:29.646 b17 Level-0 table #8: started
+2020/05/14-13:37:29.651 b17 Level-0 table #8: 21226 bytes OK
+2020/05/14-13:37:29.653 b17 Delete type=0 #4
+2020/05/14-14:17:51.220 b17 Level-0 table #10: started
+2020/05/14-14:17:51.288 b17 Level-0 table #10: 74779 bytes OK
+2020/05/14-14:17:51.290 b17 Delete type=0 #7
+2020/05/14-14:20:30.525 b17 Level-0 table #12: started
+2020/05/14-14:20:30.537 b17 Level-0 table #12: 372995 bytes OK
+2020/05/14-14:20:30.539 b17 Delete type=0 #9
+2020/05/14-15:28:48.763 b17 Level-0 table #14: started
+2020/05/14-15:28:48.770 b17 Level-0 table #14: 38397 bytes OK
+2020/05/14-15:28:48.775 b17 Delete type=0 #11

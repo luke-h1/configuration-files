@@ -1,0 +1,89 @@
+Looking for git in: git
+Using git 2.26.2 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/lukehowsam/travel-log
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/lukehowsam/travel-log/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/lukehowsam/travel-log/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :client/public/index.html
+> git ls-files --stage -- /home/lukehowsam/travel-log/client/public/index.html
+> git cat-file -s aa069f27cbd9d53394428171c3989fd03db73c76
+> git show :client/public/index.html
+> git ls-files --stage -- /home/lukehowsam/travel-log/client/public/index.html
+> git cat-file -s aa069f27cbd9d53394428171c3989fd03db73c76
+> git show :client/public/manifest.json
+> git ls-files --stage -- /home/lukehowsam/travel-log/client/public/manifest.json
+> git cat-file -s 080d6c77ac21bb2ef88a6992b2b73ad93daaca92
+> git show :client/public/now.json
+> git ls-files --stage -- /home/lukehowsam/travel-log/client/public/now.json
+> git cat-file -s 70e5fc3df9bd2d9a177504198512048392448ec7
+> git check-ignore -v -z --stdin
+> git show :client/public/robots.txt
+> git ls-files --stage -- /home/lukehowsam/travel-log/client/public/robots.txt
+> git cat-file -s e9e57dc4d41b9b46e05112e9f45b7ea6ac0ba15e
+> git show :client/src/API.js
+> git ls-files --stage -- /home/lukehowsam/travel-log/client/src/API.js
+> git cat-file -s c569492b449bafc35f5e4e41d52569bd1aeb5a16
+> git show :client/src/App.js
+> git ls-files --stage -- /home/lukehowsam/travel-log/client/src/App.js
+> git cat-file -s bec208a81d4d9ed6c7231d22b432141cb1a9be4f
+> git show :client/src/index.css
+> git ls-files --stage -- /home/lukehowsam/travel-log/client/src/index.css
+> git cat-file -s c39127336e26953e58ae9838999dfa341ec0c944
+> git show :client/src/index.js
+> git ls-files --stage -- /home/lukehowsam/travel-log/client/src/index.js
+> git cat-file -s 966e6e064941486f2aaaf591988d1a046e63da63
+> git show :client/src/LogEntryForm.js
+> git ls-files --stage -- /home/lukehowsam/travel-log/client/src/LogEntryForm.js
+> git cat-file -s daa555a43d8055c2fb6cb23242389d725634877c
+> git show :client/src/marker.svg
+> git ls-files --stage -- /home/lukehowsam/travel-log/client/src/marker.svg
+> git cat-file -s 3c76b0be5d75beda6fcd0acc488b934b50fadd72
+> git show :client/src/LogEntryForm.js
+> git ls-files --stage -- /home/lukehowsam/travel-log/client/src/LogEntryForm.js
+> git cat-file -s daa555a43d8055c2fb6cb23242389d725634877c
+> git show :client/package-lock.json
+> git ls-files --stage -- /home/lukehowsam/travel-log/client/package-lock.json
+> git cat-file -s d362f689c2ae34e333de6926120eb51f7ca7ee48
+> git show :client/README.md
+> git ls-files --stage -- /home/lukehowsam/travel-log/client/README.md
+> git cat-file -s 859d27a647f435d0598acd85db37e1af266e90be
+> git show :.vscode/launch.json
+> git ls-files --stage -- /home/lukehowsam/travel-log/.vscode/launch.json
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+Failed to watch ref '/home/lukehowsam/travel-log/.git/refs/remotes/origin/master', is most likely packed.
+Error: ENOENT: no such file or directory, watch '/home/lukehowsam/travel-log/.git/refs/remotes/origin/master'
+	at FSWatcher.start (internal/fs/watchers.js:165:26)
+	at Object.watch (fs.js:1270:11)
+	at Object.t.watch (/usr/share/code/resources/app/extensions/git/dist/main.js:1:604919)
+	at T.updateTransientWatchers (/usr/share/code/resources/app/extensions/git/dist/main.js:1:83965)
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:87)
+	at e.updateModelState (/usr/share/code/resources/app/extensions/git/dist/main.js:1:103179)
+> git config --get commit.template
+> git show :client/README.md
+> git ls-files --stage -- /home/lukehowsam/travel-log/client/README.md
+> git cat-file -s 859d27a647f435d0598acd85db37e1af266e90be
