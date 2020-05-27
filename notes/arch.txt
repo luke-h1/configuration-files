@@ -1,2 +1,0 @@
-pacstrap /mnt base linux linux-firmware cryptsetup dhcpcd device-mapper e2fsprogs inetutils nano mdadm vim netctl perl  s-nail  less lvm2 logrotate xfsprogs networkmanager openssh wpa_supplicant 
-

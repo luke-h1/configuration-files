@@ -1,3 +1,0 @@
- sudo woe-usb.woeusb --device /home/lukehowsam/Windows\ 10\ Pro\ v1903\ x64\ en-US\ Activated-KBO/Windows\ 10\ Pro\ x64\ en-US\ Activated.iso /dev/sda
-
-
