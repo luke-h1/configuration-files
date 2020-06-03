@@ -1,5 +1,0 @@
-2020/05/21-17:30:34.738 390ee Reusing MANIFEST /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_collider.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/05/21-17:31:57.858 ff3 Level-0 table #5: started
-2020/05/21-17:31:57.862 ff3 Level-0 table #5: 5650 bytes OK
-2020/05/21-17:31:57.866 ff3 Delete type=0 #3
-2020/05/21-17:31:57.866 ff3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

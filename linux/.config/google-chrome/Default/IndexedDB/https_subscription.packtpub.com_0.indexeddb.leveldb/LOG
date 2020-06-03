@@ -1,5 +1,0 @@
-2020/05/17-20:40:07.199 25f3d Reusing MANIFEST /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_subscription.packtpub.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/05/17-20:40:17.155 2166 Level-0 table #5: started
-2020/05/17-20:40:17.158 2166 Level-0 table #5: 1260 bytes OK
-2020/05/17-20:40:17.161 2166 Delete type=0 #3
-2020/05/17-20:40:17.161 2166 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

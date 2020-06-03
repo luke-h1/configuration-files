@@ -1,9 +1,0 @@
-2020/05/27-16:49:57.417 dcb6 Reusing MANIFEST /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_hole-io.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/05/27-16:49:57.418 dcb6 Recovering log #108
-2020/05/27-16:49:57.418 dcb6 Reusing old log /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_hole-io.com_0.indexeddb.leveldb/000108.log 
-2020/05/27-16:50:09.581 d15 Level-0 table #129: started
-2020/05/27-16:50:09.581 d15 Level-0 table #129: 0 bytes OK
-2020/05/27-16:50:09.587 d15 Delete type=0 #108
-2020/05/27-16:50:09.587 d15 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/05/27-16:50:09.588 d15 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
-2020/05/27-16:50:09.588 d15 Manual compaction at level-2 from (begin) .. (end); will stop at (end)

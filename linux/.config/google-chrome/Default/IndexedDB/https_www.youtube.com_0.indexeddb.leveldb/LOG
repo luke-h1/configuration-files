@@ -1,8 +1,0 @@
-2020/05/27-21:59:34.143 282e Reusing MANIFEST /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/05/27-21:59:34.143 282e Recovering log #416
-2020/05/27-21:59:34.143 282e Reusing old log /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000416.log 
-2020/05/27-22:01:11.824 ddc Level-0 table #421: started
-2020/05/27-22:01:11.825 ddc Level-0 table #421: 0 bytes OK
-2020/05/27-22:01:11.888 ddc Delete type=0 #416
-2020/05/27-22:01:11.889 ddc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/05/27-22:01:11.889 ddc Manual compaction at level-1 from (begin) .. (end); will stop at (end)

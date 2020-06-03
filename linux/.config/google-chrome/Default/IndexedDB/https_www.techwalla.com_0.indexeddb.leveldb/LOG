@@ -1,5 +1,0 @@
-2020/05/20-20:12:06.328 b56b Reusing MANIFEST /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_www.techwalla.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/05/20-20:12:38.250 1543 Level-0 table #5: started
-2020/05/20-20:12:38.254 1543 Level-0 table #5: 159818 bytes OK
-2020/05/20-20:12:38.256 1543 Delete type=0 #3
-2020/05/20-20:12:38.256 1543 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

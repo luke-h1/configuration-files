@@ -1,8 +1,0 @@
-2020/05/27-12:30:48.246 546d Reusing MANIFEST /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_delivery.adrecover.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/05/27-12:30:48.247 546d Recovering log #42
-2020/05/27-12:30:48.247 546d Reusing old log /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_delivery.adrecover.com_0.indexeddb.leveldb/000042.log 
-2020/05/27-12:30:55.272 d15 Level-0 table #46: started
-2020/05/27-12:30:55.272 d15 Level-0 table #46: 0 bytes OK
-2020/05/27-12:30:55.336 d15 Delete type=0 #42
-2020/05/27-12:30:55.337 d15 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/05/27-12:30:55.337 d15 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

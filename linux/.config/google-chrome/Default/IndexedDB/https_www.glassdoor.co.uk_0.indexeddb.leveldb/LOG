@@ -1,5 +1,0 @@
-2020/05/23-19:28:23.369 47cb1 Reusing MANIFEST /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_www.glassdoor.co.uk_0.indexeddb.leveldb/MANIFEST-000001
-2020/05/23-19:28:57.592 1cbe8 Level-0 table #5: started
-2020/05/23-19:28:57.596 1cbe8 Level-0 table #5: 4365 bytes OK
-2020/05/23-19:28:57.599 1cbe8 Delete type=0 #3
-2020/05/23-19:28:57.599 1cbe8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,5 +1,0 @@
-2020/05/20-15:04:22.690 2a9fb Reusing MANIFEST /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_redditad.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/05/20-15:04:38.923 100e Level-0 table #5: started
-2020/05/20-15:04:38.924 100e Level-0 table #5: 355 bytes OK
-2020/05/20-15:04:38.925 100e Delete type=0 #3
-2020/05/20-15:04:38.925 100e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

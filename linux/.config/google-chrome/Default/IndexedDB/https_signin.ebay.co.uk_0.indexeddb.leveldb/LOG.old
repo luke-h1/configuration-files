@@ -1,8 +1,0 @@
-2020/05/20-10:31:32.101 323a Reusing MANIFEST /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_signin.ebay.co.uk_0.indexeddb.leveldb/MANIFEST-000001
-2020/05/20-10:31:32.101 323a Recovering log #11
-2020/05/20-10:31:32.101 323a Reusing old log /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_signin.ebay.co.uk_0.indexeddb.leveldb/000011.log 
-2020/05/20-10:31:44.053 100e Level-0 table #15: started
-2020/05/20-10:31:44.053 100e Level-0 table #15: 0 bytes OK
-2020/05/20-10:31:44.074 100e Delete type=0 #11
-2020/05/20-10:31:44.074 100e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/05/20-10:31:44.074 100e Manual compaction at level-1 from (begin) .. (end); will stop at (end)

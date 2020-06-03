@@ -1,5 +1,0 @@
-2020/05/16-18:24:09.747 3742 Reusing MANIFEST /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_addons.mozilla.org_0.indexeddb.leveldb/MANIFEST-000001
-2020/05/16-18:24:33.839 b82 Level-0 table #5: started
-2020/05/16-18:24:33.841 b82 Level-0 table #5: 1266 bytes OK
-2020/05/16-18:24:33.843 b82 Delete type=0 #3
-2020/05/16-18:24:33.843 b82 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

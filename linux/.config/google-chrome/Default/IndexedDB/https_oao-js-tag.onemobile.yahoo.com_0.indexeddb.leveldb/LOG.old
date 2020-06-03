@@ -1,8 +1,0 @@
-2020/05/27-15:30:53.683 ad0a Reusing MANIFEST /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_oao-js-tag.onemobile.yahoo.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/05/27-15:30:53.684 ad0a Recovering log #71
-2020/05/27-15:30:53.684 ad0a Reusing old log /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_oao-js-tag.onemobile.yahoo.com_0.indexeddb.leveldb/000071.log 
-2020/05/27-15:31:44.653 d15 Level-0 table #75: started
-2020/05/27-15:31:44.653 d15 Level-0 table #75: 0 bytes OK
-2020/05/27-15:31:44.658 d15 Delete type=0 #71
-2020/05/27-15:31:44.658 d15 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/05/27-15:31:44.658 d15 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

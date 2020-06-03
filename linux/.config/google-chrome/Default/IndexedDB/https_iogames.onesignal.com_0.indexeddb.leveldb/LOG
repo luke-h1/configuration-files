@@ -1,5 +1,0 @@
-2020/05/25-19:42:09.034 fad8 Reusing MANIFEST /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_iogames.onesignal.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/05/25-19:42:11.194 e962 Level-0 table #5: started
-2020/05/25-19:42:11.199 e962 Level-0 table #5: 5773 bytes OK
-2020/05/25-19:42:11.202 e962 Delete type=0 #3
-2020/05/25-19:42:11.202 e962 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

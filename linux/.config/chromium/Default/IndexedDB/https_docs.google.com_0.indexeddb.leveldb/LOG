@@ -1,8 +1,0 @@
-2020/05/14-15:48:08.665 43f4 Reusing MANIFEST /home/lukehowsam/.config/chromium/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/05/14-15:48:08.665 43f4 Recovering log #19
-2020/05/14-15:48:08.665 43f4 Reusing old log /home/lukehowsam/.config/chromium/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000019.log 
-2020/05/14-15:51:27.487 e6a Level-0 table #23: started
-2020/05/14-15:51:27.487 e6a Level-0 table #23: 0 bytes OK
-2020/05/14-15:51:27.550 e6a Delete type=0 #19
-2020/05/14-15:51:27.551 e6a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/05/14-15:51:27.551 e6a Manual compaction at level-1 from (begin) .. (end); will stop at (end)

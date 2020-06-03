@@ -1,5 +1,0 @@
-2020/05/25-18:17:43.822 d9cf Reusing MANIFEST /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_www.producthunt.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/05/25-18:17:55.192 3811 Level-0 table #5: started
-2020/05/25-18:17:55.195 3811 Level-0 table #5: 5984 bytes OK
-2020/05/25-18:17:55.199 3811 Delete type=0 #3
-2020/05/25-18:17:55.200 3811 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

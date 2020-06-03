@@ -1,5 +1,0 @@
-2020/05/17-21:08:39.355 2b783 Reusing MANIFEST /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_www.sysleaf.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/05/17-21:09:11.471 2166 Level-0 table #5: started
-2020/05/17-21:09:11.473 2166 Level-0 table #5: 1616 bytes OK
-2020/05/17-21:09:11.474 2166 Delete type=0 #3
-2020/05/17-21:09:11.475 2166 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,5 +1,0 @@
-2020/05/17-20:52:31.721 26ebf Reusing MANIFEST /home/lukehowsam/.config/google-chrome/Default/IndexedDB/https_www.gspann.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/05/17-20:54:11.633 2166 Level-0 table #5: started
-2020/05/17-20:54:11.636 2166 Level-0 table #5: 3521 bytes OK
-2020/05/17-20:54:11.638 2166 Delete type=0 #3
-2020/05/17-20:54:11.638 2166 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
