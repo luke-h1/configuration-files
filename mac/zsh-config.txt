@@ -1,0 +1,24 @@
+sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" 
+ZSH_THEME="cloud" 
+
+
+specific zshrc settings: 
+
+txtred='\e[0;31m' # Red
+txtgrn='\e[0;32m' # Green
+bldgrn='\e[1;32m' # Bold Green
+bldpur='\e[1;35m' # Bold Purple
+txtrst='\e[0m'    # Text Reset
+
+emojis=("👾" "🌐" "🎲" "🌍" "🐉" "🌵")
+
+EMOJI=${emojis[$RANDOM % ${#emojis[@]} ]}
+
+print_before_the_prompt () {
+    dir=$PWD
+    home=$HOME
+    dir=${dir/"$HOME"/"~"}
+    printf "\n $txtred%s: $bldpur%s $txtgrn%s\n$txtrst" "$HOST_NAME" "$dir" "$(vcprompt)"
+}
+
+fortune | cowsay -f tux
